@@ -4,3 +4,5 @@
 
 # Description
 An open workbook for my solutions to the mathmatically rigorous code challenges from ProjectEuler.net
+
+All solutions in the notebook have been developed by myself unless otherwise specified.
